@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chayce_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chayce Down0000" x="0" y="0" width="326" height="558" frameX="0" frameY="-7" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0001" x="0" y="0" width="326" height="558" frameX="0" frameY="-7" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0002" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0003" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0004" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0005" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0006" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0007" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0008" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0009" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0010" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0011" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0012" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0013" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0014" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Down0015" x="326" y="0" width="327" height="565" frameX="-1" frameY="0" frameWidth="328" frameHeight="565"/>
+	<SubTexture name="Chayce Heh your Good0000" x="653" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0001" x="653" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0002" x="653" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0003" x="653" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0004" x="653" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0005" x="899" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0006" x="899" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0007" x="899" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0008" x="899" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0009" x="1145" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0010" x="1145" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0011" x="1145" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0012" x="1145" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0013" x="1145" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0014" x="1398" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0015" x="1398" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0016" x="1651" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0017" x="1651" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0018" x="1651" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0019" x="1651" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0020" x="1651" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0021" x="1903" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0022" x="1903" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0023" x="1903" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0024" x="2155" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0025" x="2155" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0026" x="2155" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0027" x="2155" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0028" x="2155" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0029" x="2405" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0030" x="2405" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0031" x="2405" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0032" x="2655" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0033" x="2655" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0034" x="2655" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0035" x="2655" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0036" x="2655" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0037" x="2903" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0038" x="2903" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0039" x="2903" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0040" x="2903" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0041" x="3151" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0042" x="3399" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0043" x="3399" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0044" x="3399" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0045" x="3399" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0046" x="3399" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0047" x="3645" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0048" x="3645" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0049" x="3645" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0050" x="3645" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0051" x="0" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0052" x="0" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0053" x="0" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0054" x="0" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0055" x="0" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0056" x="246" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0057" x="246" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0058" x="246" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Heh your Good0059" x="246" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0000" x="492" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0001" x="492" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0002" x="738" y="621" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0003" x="738" y="621" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0004" x="991" y="621" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0005" x="991" y="621" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0006" x="1243" y="621" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0007" x="1243" y="621" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0008" x="1493" y="621" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0009" x="1493" y="621" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0010" x="492" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0011" x="492" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle0012" x="492" y="621" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Left0000" x="1741" y="621" width="290" height="614" frameX="0" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0001" x="1741" y="621" width="290" height="614" frameX="0" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0002" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0003" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0004" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0005" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0006" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0007" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0008" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0009" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0010" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0011" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0012" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0013" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0014" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Left0015" x="2031" y="621" width="294" height="611" frameX="0" frameY="-3" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="Chayce Right0000" x="2325" y="621" width="290" height="612" frameX="0" frameY="-4" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0001" x="2325" y="621" width="290" height="612" frameX="0" frameY="-4" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0002" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0003" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0004" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0005" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0006" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0007" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0008" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0009" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0010" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0011" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0012" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0013" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0014" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0015" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0016" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0017" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Right0018" x="2615" y="621" width="283" height="616" frameX="0" frameY="0" frameWidth="290" frameHeight="616"/>
+	<SubTexture name="Chayce Up0000" x="2898" y="621" width="245" height="634" frameX="0" frameY="0" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0001" x="2898" y="621" width="245" height="634" frameX="0" frameY="0" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0002" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0003" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0004" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0005" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0006" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0007" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0008" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0009" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0010" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0011" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0012" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0013" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0014" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0015" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0016" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0017" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0018" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0019" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0020" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0021" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0022" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0023" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0024" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0025" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0026" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0027" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0028" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0029" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0030" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0031" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0032" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0033" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0034" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0035" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0036" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0037" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0038" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0039" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0040" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0041" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0042" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0043" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0044" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0045" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0046" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0047" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0048" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0049" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0050" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0051" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0052" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0053" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0054" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0055" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0056" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0057" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0058" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+	<SubTexture name="Chayce Up0059" x="3143" y="621" width="242" height="633" frameX="-4" frameY="-1" frameWidth="246" frameHeight="634"/>
+</TextureAtlas>

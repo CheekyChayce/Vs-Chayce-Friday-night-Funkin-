@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-67,
+				-73
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chayce Left"
+		},
+		{
+			"offsets": [
+				-67,
+				-115
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chayce Down"
+		},
+		{
+			"offsets": [
+				-67,
+				-73
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chayce Idle"
+		},
+		{
+			"offsets": [
+				-67,
+				-73
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Chayce Right"
+		},
+		{
+			"offsets": [
+				-67,
+				-55
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chayce Up"
+		},
+		{
+			"offsets": [
+				-67,
+				-73
+			],
+			"indices": [],
+			"fps": 42,
+			"anim": "GOOD",
+			"loop": true,
+			"name": "Chayce Heh your Good"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chayce_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chayce",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

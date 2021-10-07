@@ -1,0 +1,48 @@
+{
+	"storyName": "A Softie At heart",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"chayce",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Bopeebo",
+			"chayce",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fresh",
+			"chayce",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dad-Battle",
+			"chayce",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week1"
+}

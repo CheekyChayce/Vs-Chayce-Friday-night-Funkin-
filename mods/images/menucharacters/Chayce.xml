@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chayce.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chayce Idle Black lines0000" x="0" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0001" x="0" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0002" x="246" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0003" x="246" y="0" width="253" height="609" frameX="0" frameY="-12" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0004" x="499" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0005" x="499" y="0" width="252" height="606" frameX="0" frameY="-15" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0006" x="751" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0007" x="751" y="0" width="250" height="608" frameX="-1" frameY="-13" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0008" x="1001" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0009" x="1001" y="0" width="248" height="619" frameX="-2" frameY="-2" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0010" x="0" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0011" x="0" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+	<SubTexture name="Chayce Idle Black lines0012" x="0" y="0" width="246" height="621" frameX="-3" frameY="0" frameWidth="253" frameHeight="621"/>
+</TextureAtlas>
